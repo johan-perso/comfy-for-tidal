@@ -1,0 +1,120 @@
+/* Background color: main content */
+.main--1kmZO {
+    background-color: #23283D
+}
+
+/* Background color: sidebar */
+.sidebar--2_gw0 {
+    background-color: #1E2233
+}
+
+/* Background color: player */
+.css-1700k5z {
+    background-color: transparent
+}
+
+/* Background color: search result */
+.css-ybzxqp {
+    background-color: #1E2233
+}
+
+/* Background color: kbd keys */
+.css-6gk7c {
+    background-color: #333745;
+    border-radius: 6px
+}
+
+/* Background color: mainHeader */
+.css-1emr5z5 {
+    background-color: #23283D
+}
+
+/* Background color: notifications */
+.notification--1vSvk {
+    background-color: #7289DA
+}
+
+/* Background color: context menu (right click on element) */
+.contextMenu--2UG7P, .subMenu--3ITqV {
+    background-color: #1E2233
+}
+
+/* Context menu: edit the color when hovering elements */
+.actionItem--2XFhg:hover {
+    background-color:#333745
+}
+
+/* Player : volume changer */
+.native-range, .css-yqdqnp, .nativeRangeContainer--2_Ctz {
+    background-color: #191F2E
+}
+
+/* Player : remove shadow of the queue */
+.css-7ajix2 {
+    background : none
+}
+
+/* Player : footer */
+.css-fnvpfy, .css-17hdx1j {
+    background-color: #1E2233
+}
+
+/* Search bar */
+.css-i9gxxh {
+    background-color: #191F2E
+}
+
+/* Buttons */
+.tidal-ui__button {
+    background-color: #191F2E
+}
+
+/* Credits of songs */
+.credits--jlDyU {
+    background-color: #1E2233
+}
+.trackNumber--lTEWT, .stickyheader {
+    background-color: #191F2E;
+    border-bottom: 2px solid #191F2E;
+    border-left: 12px solid #191F2E;
+    border-right: 16px solid #191F2E;
+}
+
+/* Dropdown: notifications */
+.css-1aqbhv1 {
+    background-color: #191F2E
+}
+
+/* Dropdown: music queue */
+.containerIsOpen--obP_d {
+    background-color: #1E2233
+}
+
+/* Keyboard shortcuts list */
+.ReactModal__Content, .ReactModal__Content--after-open, .modalHeader--IyD7r, .modalBody--3fLgO {
+    background-color: #1E2233;
+    border: none;
+    border-top-color: #1E2233;
+    border-top-width: 0px;
+}
+
+/* Keyboard shortcuts list */
+.modalBody--3fLgO {
+    background-color: #1E2233;
+    color: #1E2233;
+    background: #1E2233;
+}
+
+/* Remove background of icon and separator */
+.css-ymvx3w, .tidal-ui__icon, .css-1pvf9qk {
+    background-color: transparent
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-track {
+    background: #191F2E
+}
+.enable-scrollbar-styles ::-webkit-scrollbar-thumb {
+    background: #101320;
+    border-radius: 10px
+}

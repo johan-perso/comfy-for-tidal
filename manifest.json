@@ -1,0 +1,22 @@
+{
+	"name": "Comfy for Tidal",
+	"description": "A Tidal theme based on Comfy",
+	"version": "1.0.0",
+	"manifest_version": 2,
+	"content_scripts": [{
+		"matches": [
+			"https://listen.tidal.com/*"
+		],
+		"run_at": "document_start",
+		"js": ["inject.js"],
+		"css": ["theme.css"]
+	}],
+	"web_accessible_resources": [
+		"theme.css"
+	],
+	"author": {
+		"name": "JohanStickman",
+		"url": "https://johanstickman.com"
+	},
+	"permissions": []
+}
