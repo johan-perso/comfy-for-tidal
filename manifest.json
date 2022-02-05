@@ -1,7 +1,7 @@
 {
 	"name": "Comfy for Tidal",
 	"description": "A Tidal theme based on Comfy",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"manifest_version": 2,
 	"content_scripts": [{
 		"matches": [
@@ -17,6 +17,9 @@
 	"author": {
 		"name": "JohanStickman",
 		"url": "https://johanstickman.com"
+	},
+	"icons": {
+		"300": "icon.png"
 	},
 	"permissions": []
 }
